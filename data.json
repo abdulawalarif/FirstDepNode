@@ -1,0 +1,17 @@
+[
+    {
+        "name": "someone",
+        "team":"TeamHigh",
+        "pointsPerGame": 27
+    },
+    {
+        "name": "someoneChooked",
+        "team":"TeamLow",
+        "pointsPerGame": 70
+    },
+    {
+        "name": "someoneelse",
+        "team":"TeamNotHigh",
+        "pointsPerGame": 29
+    }
+]
